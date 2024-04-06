@@ -17,6 +17,9 @@ Click the "C" button to clear the display.
 
 Files
 
-html.html: HTML file containing the structure and layout of the calculator.
-css.css: CSS file for styling the calculator interface.
-js.js: JavaScript file containing the logic for calculator operations
+html.html:
+HTML file containing the structure and layout of the calculator.
+css.css:
+CSS file for styling the calculator interface.
+js.js:
+JavaScript file containing the logic for calculator operations
